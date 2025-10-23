@@ -1,4 +1,4 @@
-# CSCE1015 - Hochstetler
+# UNT CELL
 Assignment repository for UNT CSCE1015
 ## EUID
 fpt0006
